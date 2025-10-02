@@ -1,5 +1,4 @@
 <header>
-:D
 # Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
